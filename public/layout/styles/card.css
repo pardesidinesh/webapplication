@@ -1,0 +1,21 @@
+.card-main {
+    box-shadow: 0px 4px 8px 0px lightgray;
+    width: 100%;
+    height: auto;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 10px;
+
+    background-color: white;
+}
+
+.card-image {
+    width: 250px;
+    height: 210px;
+}
+
+.padder {
+    padding-left: 40px;
+    margin-top: 162px;
+
+}
